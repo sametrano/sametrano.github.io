@@ -1,5 +1,4 @@
-theme: jekyll-theme-minimal
+plugins:
+  - jekyll-remote-theme
 
-title: Simone Ametrano
-description: Sito personale
-logo: asset/img/profile.png
+remote_theme: vszhub/not-pure-poole

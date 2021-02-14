@@ -1,5 +1,0 @@
-# Social
-
-Twitter:
-
-Facebook:
